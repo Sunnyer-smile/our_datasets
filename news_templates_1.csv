@@ -1,7 +1,0 @@
-id,content
-1,"Among these songs, there are {count} songs published by a single singer. The top 5 songs are:"
-2,"Among these songs, there are {count} songs published by multiple singers. The top 5 songs are:"
-3,"Taylor Swift is one of the most popular singer in the world,
-        her songs:"
-4,"were collected in this spotify list,"
-,"among which the [{results[0][0]}] got the highest steams:{results[0][1]}, became her fans¡¯ favorite."
